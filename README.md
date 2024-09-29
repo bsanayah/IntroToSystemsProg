@@ -10,6 +10,6 @@ bye.c: Prints "Goodbye World!"
 main.c: Calls the two functions in sequence
 main.h: Header file with function declarations
 Makefile: Automates the compilation process into an executable named greetings
-The repository also includes instructions for compiling and running the program on a Unix-based system.
 
-I use -zsh terminal Mac Terminal
+
+Compiled and ran on a UNIX MacOS system. I used my -zsh terminal
